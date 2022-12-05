@@ -1,12 +1,12 @@
 # ReactAdv_M1
 
-**Descripción:**
+- **Descripción:**
 
-- Copiar el diseño de 9gag.com con html/css.
-- Página original:
+  - Copiar el diseño de 9gag.com con html/css.
+  - Página original:
   
 ![Página original](9gap.com.png "Página original")
 
-**Solución**
+- **Solución**
 
-[Copia](index.html)
+  - Copia: [HTML](index.html) + [CSS](styles.css)
